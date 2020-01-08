@@ -1,0 +1,16 @@
+pub mod challenge_eight;
+pub mod challenge_five;
+pub mod challenge_four;
+pub mod challenge_one;
+pub mod challenge_seven;
+pub mod challenge_six;
+pub mod challenge_three;
+pub mod challenge_two;
+pub use challenge_eight::challenge_eight;
+pub use challenge_five::challenge_five;
+pub use challenge_four::challenge_four;
+pub use challenge_one::challenge_one;
+pub use challenge_seven::challenge_seven;
+pub use challenge_six::challenge_six;
+pub use challenge_three::challenge_three;
+pub use challenge_two::challenge_two;
